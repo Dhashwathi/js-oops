@@ -47,7 +47,7 @@ class Circle extends Shape{
 }
 
 const rectangle8x4 =new Rectangle(8,4);
-//const rectangle2x8 =new Rectangle(2,8);
+
 console.log(rectangle8x4.calculateArea());
 console.log(rectangle8x4.calculatePerimeter());
 
